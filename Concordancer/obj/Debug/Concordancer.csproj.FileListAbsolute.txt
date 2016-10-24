@@ -1,0 +1,10 @@
+c:\users\ceplo\documents\visual studio 2013\Projects\Concordancer\Concordancer\bin\Debug\Concordancer.exe.config
+c:\users\ceplo\documents\visual studio 2013\Projects\Concordancer\Concordancer\bin\Debug\Concordancer.exe
+c:\users\ceplo\documents\visual studio 2013\Projects\Concordancer\Concordancer\bin\Debug\Concordancer.pdb
+c:\users\ceplo\documents\visual studio 2013\Projects\Concordancer\Concordancer\obj\Debug\Concordancer.Form1.resources
+c:\users\ceplo\documents\visual studio 2013\Projects\Concordancer\Concordancer\obj\Debug\Concordancer.Properties.Resources.resources
+c:\users\ceplo\documents\visual studio 2013\Projects\Concordancer\Concordancer\obj\Debug\Concordancer.csproj.GenerateResource.Cache
+c:\users\ceplo\documents\visual studio 2013\Projects\Concordancer\Concordancer\obj\Debug\Concordancer.exe
+c:\users\ceplo\documents\visual studio 2013\Projects\Concordancer\Concordancer\obj\Debug\Concordancer.pdb
+C:\Users\ceplo\Documents\Visual Studio 2013\Projects\Concordancer\Concordancer\bin\Debug\Concordancer.exe.CodeAnalysisLog.xml
+C:\Users\ceplo\Documents\Visual Studio 2013\Projects\Concordancer\Concordancer\bin\Debug\Concordancer.exe.lastcodeanalysissucceeded

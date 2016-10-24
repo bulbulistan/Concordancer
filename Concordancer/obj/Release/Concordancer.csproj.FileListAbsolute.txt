@@ -1,0 +1,12 @@
+C:\Users\ceplo\documents\visual studio 2013\Projects\Concordancer\Concordancer\bin\Release\Concordancer.exe.config
+C:\Users\ceplo\documents\visual studio 2013\Projects\Concordancer\Concordancer\bin\Release\Concordancer.exe
+C:\Users\ceplo\documents\visual studio 2013\Projects\Concordancer\Concordancer\bin\Release\Concordancer.pdb
+C:\Users\ceplo\documents\visual studio 2013\Projects\Concordancer\Concordancer\obj\Release\Concordancer.Form1.resources
+C:\Users\ceplo\documents\visual studio 2013\Projects\Concordancer\Concordancer\obj\Release\Concordancer.Properties.Resources.resources
+C:\Users\ceplo\documents\visual studio 2013\Projects\Concordancer\Concordancer\obj\Release\Concordancer.csproj.GenerateResource.Cache
+C:\Users\ceplo\documents\visual studio 2013\Projects\Concordancer\Concordancer\obj\Release\Concordancer.exe
+C:\Users\ceplo\documents\visual studio 2013\Projects\Concordancer\Concordancer\obj\Release\Concordancer.pdb
+c:\Users\ceplo\Documents\Visual Studio 2013\Projects\Concordancer\Concordancer\obj\Release\Concordancer.csprojResolveAssemblyReference.cache
+c:\_download\_perl\C\TonyConcordancer\Concordancer\bin\Release\Concordancer.exe.config
+c:\_download\_perl\C\TonyConcordancer\Concordancer\obj\Release\Concordancer.exe
+c:\_download\_perl\C\TonyConcordancer\Concordancer\obj\Release\Concordancer.pdb
